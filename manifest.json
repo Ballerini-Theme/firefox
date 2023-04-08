@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Ballerini",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(164, 90, 73)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(88, 60, 56)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(237, 173, 159)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(248, 112, 140)",
+      "popup": "rgb(88, 60, 56)",
+      "popup_text": "rgb(255, 255, 255)",
+      "button_background_hover": "rgb(237, 173, 159)",
+      "ntp_background": "rgb(38, 28, 30)",
+      "popup_border": "rgb(88, 60, 56)",
+      "popup_highlight": "rgb(164, 90, 73)",
+      "sidebar_border": "rgb(88, 60, 56)",
+      "sidebar_highlight": "rgb(164, 90, 73)",
+      "sidebar": "rgb(88, 60, 56)",
+      "toolbar_bottom_separator": "rgb(164, 90, 73)",
+      "toolbar_field_border_focus": "rgb(237, 173, 159)",
+      "toolbar_field_border": "rgb(88, 60, 56)",
+      "toolbar_field_highlight": "rgb(164, 90, 73)",
+      "toolbar_field_text_focus": "rgb(88, 60, 56)",
+      "tab_loading": "rgb(248, 112, 140)"
+    }
+  }
+}
