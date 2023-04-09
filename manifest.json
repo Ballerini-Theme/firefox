@@ -1,10 +1,21 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "Ballerini",
+  "name": "Ballerini Theme",
   "theme": {
-    "images": {},
-    "properties": {},
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
     "colors": {
       "toolbar": "rgb(164, 90, 73)",
       "toolbar_text": "rgb(255, 255, 255)",
@@ -15,16 +26,24 @@
       "tab_line": "rgb(248, 112, 140)",
       "popup": "rgb(88, 60, 56)",
       "popup_text": "rgb(255, 255, 255)",
+      "button_background_active": "rgb(237, 173, 159)",
       "button_background_hover": "rgb(237, 173, 159)",
+      "frame_inactive": "rgb(88, 60, 56)",
       "ntp_background": "rgb(38, 28, 30)",
+      "ntp_text": "rgb(255, 255, 255)",
       "popup_border": "rgb(88, 60, 56)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
       "popup_highlight": "rgb(164, 90, 73)",
       "sidebar_border": "rgb(88, 60, 56)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
       "sidebar_highlight": "rgb(164, 90, 73)",
+      "sidebar_text": "rgb(255, 255, 255)",
       "sidebar": "rgb(88, 60, 56)",
+      "tab_text": "rgb(255, 255, 255)",
       "toolbar_bottom_separator": "rgb(164, 90, 73)",
       "toolbar_field_border_focus": "rgb(237, 173, 159)",
       "toolbar_field_border": "rgb(88, 60, 56)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
       "toolbar_field_highlight": "rgb(164, 90, 73)",
       "toolbar_field_text_focus": "rgb(88, 60, 56)",
       "tab_loading": "rgb(248, 112, 140)"
