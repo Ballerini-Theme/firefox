@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.0.3",
   "name": "Ballerini Theme",
   "theme": {
     "images": {
@@ -23,7 +23,7 @@
       "tab_background_text": "rgb(255, 255, 255)",
       "toolbar_field": "rgb(237, 173, 159)",
       "toolbar_field_text": "rgb(0, 0, 0)",
-      "tab_line": "rgb(248, 112, 140)",
+      "tab_line": "rgb(237, 173, 159)",
       "popup": "rgb(88, 60, 56)",
       "popup_text": "rgb(255, 255, 255)",
       "button_background_active": "rgb(237, 173, 159)",
@@ -46,7 +46,7 @@
       "toolbar_field_highlight_text": "rgb(255, 255, 255)",
       "toolbar_field_highlight": "rgb(164, 90, 73)",
       "toolbar_field_text_focus": "rgb(88, 60, 56)",
-      "tab_loading": "rgb(248, 112, 140)"
-    }
+      "tab_loading": "rgb(237, 173, 159)"
+    } 
   }
 }
